@@ -38,7 +38,7 @@ categories: Reward
 >
 > นายพงศภัค สวโรจน์
 
-![Kob Certificate](/images\kob certificate.jpg)
+![Kob Certificate](/images/kob_certificate.jpg)
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
