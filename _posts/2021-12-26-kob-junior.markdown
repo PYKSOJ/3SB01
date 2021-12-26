@@ -10,7 +10,7 @@ categories: Reward
 
 # **ชื่อผลงาน :** Surat Oyster
 
-![Surat Oyster](/images\surat oyster.jpg)
+![Surat Oyster](/images/surat oyster.jpg)
 
 ## โรงเรียนที่ส่งผลงาน 
 
